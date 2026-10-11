@@ -15,5 +15,5 @@ while integer >= 10:
     integer = product
     steps += 1
 print("No more steps.\n")
-print(f"This program took {steps} step(s).\n")
+print(f"This program took {steps} step(s)\n")
 print("Program ending.")
